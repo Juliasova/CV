@@ -18,10 +18,20 @@ footer{
 header{
     text-align: center;
     background-color:rgb(140, 16, 16);
+    padding:1%;
 }
 h1{
     /* background-color: black; */
 }
 h2{
     /* background-color: rgb(108, 107, 107); */
+}
+div{
+    border-radius:1cm;
+    border: 2px solid gray;
+    padding: 1%;
+    margin: 1%;
+}
+.div1{
+    background-color: black;
 }
