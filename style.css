@@ -49,15 +49,14 @@ h3{
 .container{
     display: flex;
     flex-direction: row;
-    padding: 1%;
-    margin: 1%;
+    justify-content: center;
+    width:100%
 }
     
 .contenedor{
     display: flex;
     flex-direction: column;
-    padding: 1%;
-    margin: 1%;
+    width:80%
 }
 
 .titles{
